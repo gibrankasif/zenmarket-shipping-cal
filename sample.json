@@ -1,0 +1,149 @@
+[
+    {
+        "package": "oly1",
+        "weight": 500,
+        "courier": "Recommended",
+        "price": "$22.38 USD",
+        "delivery_time": "Standard Parcel"
+    },
+    {
+        "package": "oly1",
+        "weight": 500,
+        "courier": "Surface",
+        "price": "$18.40 USD",
+        "delivery_time": "about 2-3 months"
+    },
+    {
+        "package": "oly1",
+        "weight": 500,
+        "courier": "UPS",
+        "price": "$24.27 USD",
+        "delivery_time": "2-6 days"
+    },
+    {
+        "package": "oly1",
+        "weight": 500,
+        "courier": "FedEx",
+        "price": "$25.71 USD",
+        "delivery_time": "2-6 days"
+    },
+    {
+        "package": "oly1",
+        "weight": 500,
+        "courier": "DHL",
+        "price": "$27.22 USD",
+        "delivery_time": "2-6 days"
+    },
+    {
+        "package": "oly1",
+        "weight": 500,
+        "courier": "EMS",
+        "price": "$27.60 USD",
+        "delivery_time": "~1 week"
+    },
+    {
+        "package": "oly1",
+        "weight": 500,
+        "courier": "Airmail\n(AVIA)",
+        "price": "$29.72 USD",
+        "delivery_time": "~2 weeks"
+    },
+    {
+        "package": "oly2",
+        "weight": 1000,
+        "courier": "Recommended",
+        "price": "$37.80 USD",
+        "delivery_time": "Standard Parcel"
+    },
+    {
+        "package": "oly2",
+        "weight": 1000,
+        "courier": "FedEx",
+        "price": "$28.48 USD",
+        "delivery_time": "2-6 days"
+    },
+    {
+        "package": "oly2",
+        "weight": 1000,
+        "courier": "UPS",
+        "price": "$28.97 USD",
+        "delivery_time": "2-6 days"
+    },
+    {
+        "package": "oly2",
+        "weight": 1000,
+        "courier": "DHL",
+        "price": "$29.62 USD",
+        "delivery_time": "2-6 days"
+    },
+    {
+        "package": "oly2",
+        "weight": 1000,
+        "courier": "Airmail\n(AVIA)",
+        "price": "$29.72 USD",
+        "delivery_time": "~2 weeks"
+    },
+    {
+        "package": "oly2",
+        "weight": 1000,
+        "courier": "EMS",
+        "price": "$37.51 USD",
+        "delivery_time": "~1 week"
+    },
+    {
+        "package": "oly2",
+        "weight": 1000,
+        "courier": "Surface",
+        "price": "$18.40 USD",
+        "delivery_time": "about 2-3 months"
+    },
+    {
+        "package": "oly3",
+        "weight": 1500,
+        "courier": "Recommended",
+        "price": "$52.03 USD",
+        "delivery_time": "Standard Parcel"
+    },
+    {
+        "package": "oly3",
+        "weight": 1500,
+        "courier": "UPS",
+        "price": "$36.71 USD",
+        "delivery_time": "2-6 days"
+    },
+    {
+        "package": "oly3",
+        "weight": 1500,
+        "courier": "FedEx",
+        "price": "$37.95 USD",
+        "delivery_time": "2-6 days"
+    },
+    {
+        "package": "oly3",
+        "weight": 1500,
+        "courier": "EMS",
+        "price": "$46.71 USD",
+        "delivery_time": "~1 week"
+    },
+    {
+        "package": "oly3",
+        "weight": 1500,
+        "courier": "Airmail\n(AVIA)",
+        "price": "$47.41 USD",
+        "delivery_time": "~2 weeks"
+    },
+    {
+        "package": "oly3",
+        "weight": 1500,
+        "courier": "DHL",
+        "price": "$50.82 USD",
+        "delivery_time": "2-6 days"
+    },
+    {
+        "package": "oly3",
+        "weight": 1500,
+        "courier": "Surface",
+        "price": "$23.35 USD",
+        "delivery_time": "about 2-3 months"
+    }
+]
